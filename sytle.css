@@ -1,30 +1,38 @@
+.deus{ background-color: black;
 .cabecalho{
-    background-color: blueviolet;
+    background-image: linear-gradient(pink);
     color: antiquewhite;
     display: flex;
     padding: 24px 0;
 }
 
 .section1{
-    background-color: aqua;
+    background-image: linear-gradient(rgb(216, 161, 170)
+    );
     padding: 100px;
+    display: flex;
+
 }
 
 .section2{
-    background-color: cadetblue;
+    background-image: linear-gradient(rgb(197, 150, 158));
     padding: 100px;
+    display: flex;
 }
 
 
 .cabecalho-image{
+    background-image: linear-gradient(rgb(177, 134, 141));
     width: 90px;
-
+    display: flex;
 }
 .cabe{
+    background-image: linear-gradient(pink);
     width: 90px;
+    display: flex
 }
 
 .rodape{
-    background-color: chartreuse;
-    color: azure;
-}
+    background-image:linear-gradient(rgb(70, 47, 51))
+    
+}}
