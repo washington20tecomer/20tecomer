@@ -18,9 +18,10 @@
 
 .jogo do mundo{
         background-color: aqua;
-        background-image: linear-gradient(blue));
+        background-image: linear-gradient(blue);
         padding: 30px 45;
         display: flex;
+
 }
 
 .mapa do brasil{
