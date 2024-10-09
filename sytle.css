@@ -1,23 +1,24 @@
 
-.cabecalho{
-    background-image: linear-gradient(pink);
-    color: antiquewhite;
+.futebol{
+    background-image: linear-gradient(rgba(0, 128, 0, 0.521));
+    color: rgb(0, 0, 0);
     display: flex;
-    padding: 24px 0;
+    padding: 30px 15;
 }
 
-.section1{
-    background-image: linear-gradient(rgb(216, 161, 170)
-    );
-    padding: 100px;
+.jogo de tiro{
+    background-image: linear-gradient((green));
+    color: black;
+    padding: 30px;
     display: flex;
 
 }
 
-.section2{
-    background-image: linear-gradient(rgb(197, 150, 158));
-    padding: 100px;
+.jogo do mundo{
+    background-image: linear-gradient(blue));
+    padding: 30px 15;
     display: flex;
+
 }
 
 
