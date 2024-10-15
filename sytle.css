@@ -1,6 +1,5 @@
 
 .futebol{
-    background-color: green;
     background-image: linear-gradient(rgba(0, 128, 0, 0.521));
     color: rgb(0, 0, 0);
     display: flex;
@@ -8,7 +7,6 @@
 }
 
 .jogo de tiro{
-    background-color: rgba(0, 0, 0, 0.205);
     background-image: linear-gradient((green));
     color: black;
     padding: 30px 45;
@@ -24,7 +22,7 @@
 }
 
 .mapa do brasil{
-    background-color: aquamarine;
+    background-color: rgb(137, 197, 177);
     background-image: linear-gradient(rgba(128, 128, 128, 0.637));
     padding: 30px 45;
     display: flex;
