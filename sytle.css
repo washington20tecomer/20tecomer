@@ -5,11 +5,13 @@
     color: rgb(0, 0, 0);
     display: flex;
     padding: 30px 45;
+}
+
 .jogo1{
- padding: 30px 45;
+    
  color: black;
 }
-}
+
 
 .jogo de tiro{
     background-color: rgba(0, 0, 0, 0.205);
@@ -18,8 +20,9 @@
     padding: 30px 45;
     display: flex;
 }
+
  .jogo2{
- padding: 30px 45;
+
 color: black;
 }
 
@@ -31,11 +34,10 @@ color: black;
         padding: 30px 45;
         display: flex;
 }
+
 .jogo3{
-   padding: 100px 45;
    color: black;
  }
-
 
 
 .mapa do brasil{
