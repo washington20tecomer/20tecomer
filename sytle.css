@@ -5,6 +5,10 @@
     color: rgb(0, 0, 0);
     display: flex;
     padding: 30px 45;
+        .jogo1{
+            padding: 30px 45;
+            color: black;
+        }
 }
 
 .jogo de tiro{
@@ -13,6 +17,10 @@
     color: black;
     padding: 30px 45;
     display: flex;
+        .jogo2{
+            padding: 30px 45;
+            color: black;
+        }
 
 }
 
@@ -21,6 +29,10 @@
         background-image: linear-gradient(blue);
         padding: 30px 45;
         display: flex;
+            .jogo3{
+                padding: 30px 45;
+                color: black;
+            }
 
 }
 
